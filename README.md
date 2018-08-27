@@ -1,0 +1,2 @@
+# Alladin-API
+API Documentation
